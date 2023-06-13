@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/concaption/multicloud-onboarding/actions/workflows/main.yml/badge.svg)](https://github.com/concaption/multicloud-onboarding/actions/workflows/main.yml)
+
 # multicloud-onboarding
 This is a samle repositpory for doing mulicloud onborading. Works with GCP, AWS and Azure.
 
