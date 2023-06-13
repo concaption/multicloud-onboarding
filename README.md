@@ -8,3 +8,5 @@ This is a samle repositpory for doing mulicloud onborading. Works with GCP, AWS 
 * hello.py
 * requirements.txt
 * test_hello.py
+
+* This line was added from Google Cloud Shell.
